@@ -1,2 +1,2 @@
 # discordbot
-making discordbot with python while also integrating various apis into it
+discordbot made with python, utilizes coinmarketcap api to report crypto prices, integrates chatgpt api to use chatgpt while in discord
